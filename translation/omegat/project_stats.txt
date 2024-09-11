@@ -1,0 +1,14 @@
+9/12/24, 12:03 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     600	10716	                      47315	                        56614	     1	
+Remaining:       	       3	   38	                        165	                          199	     1	
+Unique:          	     599	10712	                      47298	                        56594	     1	
+Unique Remaining:	       3	   38	                        165	                          199	     1	
+
+
+Individual File Statistics:
+
+File Name      	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+gogandmagog.txt	           600	                 3	            599	                        3	      10716	             38	       10712	                    38	                            47315	                                  165	                             47298	                                         165	                              56614	                                    199	                               56594	                                           199	
